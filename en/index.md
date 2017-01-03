@@ -1,4 +1,4 @@
-# Opening IDLE for Python 3
+## Opening IDLE for Python 3
 
 IDLE is Python's built in Interactive Development Environment, used to write and run your code.
 To open IDLE you can click on the Menu and then find and click the Porgramming section.
