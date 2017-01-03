@@ -1,1 +1,2 @@
-# idle-opening
+# idle-opening 
+Some readme content
