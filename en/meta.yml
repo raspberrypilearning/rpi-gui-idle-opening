@@ -3,3 +3,6 @@ hero_image: images/idle.png
 subtitle: Opening IDLE3
 description: How to open IDLE3
 published: 'false'
+steps:
+  - title: Step one
+    duration: 60
