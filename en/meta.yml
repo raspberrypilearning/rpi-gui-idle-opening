@@ -1,8 +1,12 @@
 title: Opening IDLE3
 hero_image: images/idle.png
-subtitle: Opening IDLE3
 description: How to open IDLE3
-published: false
+original_url: 
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+interests:
+technologies: "[python]"
 steps:
-  - title: Step one
-    duration: 60
+  - title: Opening IDLE3
