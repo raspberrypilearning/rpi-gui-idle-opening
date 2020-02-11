@@ -1,12 +1,12 @@
-IDLE is Python's **I**ntegrated **D**eve**l**opment **E**nvironment, which you can use to write and run code.
+Το IDLE είναι το **I**ntegrated **D**eve**l**opment **E**nvironment του Python, το οποίο μπορείτε να χρησιμοποιήσετε για να γράψετε και να εκτελέσετε κώδικα.
 
-To open IDLE, go to the menu and choose `Programming`. You should see two versions of IDLE - make sure you click on the one that says `Python 3 (IDLE)`.
+Για να ανοίξετε το IDLE, μεταβείτε στο μενού και επιλέξτε ` Προγραμματισμός `. Θα πρέπει να δείτε δύο εκδόσεις του IDLE - βεβαιωθείτε ότι κάνετε κλικ σε αυτό που λέει ` Python 3 (IDLE) ` .
 
-![Opening IDLE](images/opening-idle.png)
+![Άνοιγμα του IDLE](images/opening-idle.png)
 
-To create a new file in IDLE, you can click on `File` and then `New File` in IDLE's menu bar. This will open a second window in which you can write your code.
+Για να δημιουργήσετε ένα νέο αρχείο στο IDLE, μπορείτε να κάνετε κλικ στο ` Αρχείο ` και στη συνέχεια ` Νέο αρχείο ` στη γραμμή μενού του IDLE. Αυτό θα ανοίξει ένα δεύτερο παράθυρο στο οποίο μπορείτε να γράψετε τον κωδικό σας.
 
 
-![New Window](images/new-window.png)
+![Νέο παράθυρο](images/new-window.png)
 
 
