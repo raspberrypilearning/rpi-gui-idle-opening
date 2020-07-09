@@ -1,7 +1,7 @@
 ---
-title: Opening IDLE3
+title: فتح IDLE3
 hero_image: images/idle.png
-description: How to open IDLE3
+description: كيفية فتح IDLE3
 original_url:
 theme: cc-prototype
 duration: 1
@@ -10,8 +10,8 @@ ingredient: true
 copyedit: true
 curriculum:
 interests:
-technologies: "python"
+technologies: "لغة البرمجة \"بايثون\""
 steps:
   - 
-    title: Opening IDLE3
+    title: فتح IDLE3
 
