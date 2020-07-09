@@ -1,7 +1,7 @@
 ---
-title: Opening IDLE3
+title: IDLE3を開く
 hero_image: images/idle.png
-description: How to open IDLE3
+description: IDLE3の開き方
 original_url:
 theme: cc-prototype
 duration: 1
@@ -13,5 +13,5 @@ interests:
 technologies: "python"
 steps:
   - 
-    title: Opening IDLE3
+    title: IDLE3を開く
 
