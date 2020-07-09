@@ -1,12 +1,12 @@
-IDLE is Python's **I**ntegrated **D**eve**l**opment **E**nvironment, which you can use to write and run code.
+IDLE (بالإنجليزية: **I**ntegrated **D**eve**l**opment **E**nvironment)‏ وهو بيئة تطوير متكاملة للغة البرمجة "بايثون"، والتي بامكانك استخدامها لكتابة وتشغيل التعليمات البرمجية.
 
-To open IDLE, go to the menu and choose `Programming`. You should see two versions of IDLE - make sure you click on the one that says `Python 3 (IDLE)`.
+لفتح IDLE، اذهب الى القائمة واختر `برمجة Programming`. ستظهر لك نسختان من IDLE - تأكد من النقر على النسخة التي تحمل الاسم `بايثون 3 (IDLE)`.
 
-![Opening IDLE](images/opening-idle.png)
+![فتح IDLE](images/opening-idle.png)
 
-To create a new file in IDLE, you can click on `File` and then `New File` in IDLE's menu bar. This will open a second window in which you can write your code.
+لانشاء ملف جديد في IDLE، اضغط على `ملف` ثم `ملف جديد` في شريط قائمة IDLE. سيتم فتح نافذة ثانية تكتب فيها التعليمات البرمجية الخاصة بك.
 
 
-![New Window](images/new-window.png)
+![نافذة جديدة](images/new-window.png)
 
 
