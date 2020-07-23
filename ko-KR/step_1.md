@@ -1,12 +1,12 @@
-IDLE is Python's **I**ntegrated **D**eve**l**opment **E**nvironment, which you can use to write and run code.
+IDLE은 파이썬의 통합 개발 환경(**I**ntegrated **D**eve**l**opment **E**nvironment, IDE)입니다. 여기서 코드를 작성하고 실행할 수 있습니다.
 
-To open IDLE, go to the menu and choose `Programming`. You should see two versions of IDLE - make sure you click on the one that says `Python 3 (IDLE)`.
+IDLE을 실행하려면 메뉴에서 `Programming`을 선택하세요. IDLE의 두가지 버전이 보일 겁니다. `Python 3(IDLE)`이라고 쓰여있는 것을 클릭하세요.
 
-![Opening IDLE](images/opening-idle.png)
+![IDLE 실행하기](images/opening-idle.png)
 
-To create a new file in IDLE, you can click on `File` and then `New File` in IDLE's menu bar. This will open a second window in which you can write your code.
+IDLE에서 새 파일을 만들려면, IDLE 메뉴창에서 `File`을 클릭하고 `New File`을 클릭하세요. 그러면 코드를 작성할 수있는 두 번째 창이 열립니다.
 
 
-![New Window](images/new-window.png)
+![새 창](images/new-window.png)
 
 
