@@ -1,12 +1,12 @@
-IDLE is Python's **I**ntegrated **D**eve**l**opment **E**nvironment, which you can use to write and run code.
+IDLE — це інтегроване середовище розробки Python (**I**ntegrated **D**eve**l**opment **E**nvironment), яке можна використовувати для написання та запуску коду.
 
-To open IDLE, go to the menu and choose `Programming`. You should see two versions of IDLE - make sure you click on the one that says `Python 3 (IDLE)`.
+Щоб запустити IDLE, перейди до меню та вибери `Programming`. Ти побачиш дві версії IDLE, переконайся, що ти обрав (-ла) `Python 3 (IDLE)`.
 
-![Opening IDLE](images/opening-idle.png)
+![Запуск IDLE3](images/opening-idle.png)
 
-To create a new file in IDLE, you can click on `File` and then `New File` in IDLE's menu bar. This will open a second window in which you can write your code.
+Щоб створити новий файл в IDLE, ти можеш натиснути `File`, а потім `New File` в меню IDLE. Це відкриє друге вікно, в якому ти можеш писати свій код.
 
 
-![New Window](images/new-window.png)
+![Нове Вікно](images/new-window.png)
 
 
