@@ -4,7 +4,7 @@ IDLE을 실행하려면 메뉴에서 `Programming`을 선택하세요. IDLE의 �
 
 ![IDLE 실행하기](images/opening-idle.png)
 
-IDLE에서 새 파일을 만들려면, IDLE 메뉴창에서 `File`을 클릭하고 `New File`을 클릭하세요. 그러면 코드를 작성할 수있는 두 번째 창이 열립니다.
+IDLE에서 새 파일을 만들려면, IDLE 메뉴창에서 `File`을 클릭하고 `New File`을 클릭하세요. This will open a second window in which you can write your code.
 
 
 ![새 창](images/new-window.png)
