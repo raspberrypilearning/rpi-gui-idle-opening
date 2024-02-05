@@ -1,12 +1,12 @@
-IDLE is Python's **I**ntegrated **D**eve**l**opment **E**nvironment, which you can use to write and run code.
+IDLE significa Python **I**ntegrated **D**eve**l**opment **E**nvironment, e lo puoi usare per scrivere ed eseguire codice.
 
-To open IDLE, go to the menu and choose `Programming`. You should see two versions of IDLE - make sure you click on the one that says `Python 3 (IDLE)`.
+Per avviare IDLE, vai al menu di avvio e scegli `Programmazione`. Dovresti vedere due versioni di IDLE - assicurati di fare clic sulla `Python 3 (IDLE)`.
 
-![Opening IDLE](images/opening-idle.png)
+![Avviare IDLE3](images/opening-idle.png)
 
-To create a new file in IDLE, you can click on `File` and then `New File` in IDLE's menu bar. This will open a second window in which you can write your code.
+Per creare un nuovo file in IDLE, è possibile fare clic su `File` e quindi `Nuovo file` nella barra dei menu di IDLE. Questo aprirà una seconda finestra in cui potrai scrivere il tuo codice.
 
 
-![New Window](images/new-window.png)
+![Nuova finestra](images/new-window.png)
 
 
